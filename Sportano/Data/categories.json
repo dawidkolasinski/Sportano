@@ -1,0 +1,738 @@
+[
+  {
+    "id" : 1,
+    "imageName" : "category-winter",
+    "listImageName" : "snowflake",
+    "name" : "sporty zimowe",
+    "subcategories" : [
+        {
+            "id" : 1,
+            "name" : "Sprzęt narciarski",
+            "subcategories" : [
+                {
+                    "id" : 1,
+                    "name" : "Narty"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Buty narciarskie"
+                },
+                {
+                    "id" : 3,
+                    "name" : "Kije narciarskie"
+                }
+            ]
+        },
+        {
+            "id" : 2,
+            "name" : "Sprzęt snowboardowy",
+            "subcategories" : [
+                {
+                    "id" : 1,
+                    "name" : "Deski snowboardowe"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Buty snowboardowe"
+                },
+                {
+                    "id" : 3,
+                    "name" : "Kaski snowboardowe"
+                }
+            ]
+        },
+        {
+            "id" : 3,
+            "name" : "Odzież narciarska i snowboardowa",
+            "subcategories" : [
+                    {
+                        "id" : 1,
+                        "name" : "Kurtki"
+                    },
+                    {
+                        "id" : 2,
+                        "name" : "Spodnie"
+                    },
+                    {
+                        "id" : 3,
+                        "name" : "Bielizna termoaktywna"
+                    }
+                ]
+        },
+        {
+            "id" : 4,
+            "name" : "Akcesoria do sportów zimowych",
+            "subcategories" : [
+                {
+                    "id" : 1,
+                    "name" : "Transport sprzętu"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Pokrowce"
+                },
+                {
+                    "id" : 3,
+                    "name" : "Ochrona i serwis"
+                }
+            ]
+        },
+        {
+            "id" : 5,
+            "name" : "Łyżwy",
+            "subcategories" : [
+                {
+                    "id" : 1,
+                    "name" : "Łyżwy figurowe"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Łyżwy rekreacyjne"
+                },
+                {
+                    "id" : 3,
+                    "name" : "Łyżwy hokejowe"
+                }
+            ]
+        },
+        {
+            "id" : 6,
+            "name" : "Sanki i ślizgacze",
+            "subcategories" : [
+                {
+                    "id" : 1,
+                    "name" : "Sanki drewniane"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Sanki plastikowe"
+                },
+                {
+                    "id" : 3,
+                    "name" : "Ślizgacze na śnieg"
+                }
+            ]
+        }
+    ]
+  },
+  {
+    "id" : 2,
+    "imageName" : "category-tourism",
+    "listImageName" : "globe.europe.africa",
+    "name" : "turystyka",
+    "subcategories" : [
+        {
+            "id" : 1,
+            "name" : "Buty turystyczne",
+            "subcategories" : [
+                {
+                    "id" : 1,
+                    "name" : "Buty trekkingowe wysokie"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Buty trekkingowe niskie"
+                },
+                {
+                    "id" : 3,
+                    "name" : "Buty wspinaczkowe"
+                }
+            ]
+        },
+        {
+            "id" : 2,
+            "name" : "Sprzęt turystyczny",
+            "subcategories" : [
+                {
+                    "id" : 1,
+                    "name" : "Plecaki turystyczne"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Kije turystyczne"
+                },
+                {
+                    "id" : 3,
+                    "name" : "Torby i walizki"
+                }
+            ]
+        },
+        {
+            "id" : 3,
+            "name" : "Odzież turystyczna i wspinaczkowa",
+            "subcategories" : [
+                    {
+                        "id" : 1,
+                        "name" : "Kurtki"
+                    },
+                    {
+                        "id" : 2,
+                        "name" : "Spodnie"
+                    },
+                    {
+                        "id" : 3,
+                        "name" : "Koszulki"
+                    }
+                ]
+        },
+        {
+            "id" : 4,
+            "name" : "Sprzęt wspinaczkowy",
+            "subcategories" : [
+                {
+                    "id" : 1,
+                    "name" : "Uprzęże"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Kaski"
+                },
+                {
+                    "id" : 3,
+                    "name" : "Liny"
+                }
+            ]
+        },
+        {
+            "id" : 5,
+            "name" : "Sprzęt wspinaczkowy zimowy",
+            "subcategories" : [
+                {
+                    "id" : 1,
+                    "name" : "Raki i raczki"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Czekany"
+                },
+                {
+                    "id" : 3,
+                    "name" : "ABC lawinowe"
+                }
+            ]
+        }
+    ]
+  },
+  {
+    "id" : 3,
+    "imageName" : "category-fitness",
+    "listImageName" : "figure.walk",
+    "name" : "fitness",
+    "subcategories" : [
+        {
+            "id" : 1,
+            "name" : "Sprzęt cardio",
+            "subcategories" : [
+                {
+                    "id" : 1,
+                    "name" : "Rowery stacjonarne"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Bieżnie"
+                },
+                {
+                    "id" : 3,
+                    "name" : "Orbitreki"
+                }
+            ]
+        },
+        {
+            "id" : 2,
+            "name" : "Odzież i buty treningowe",
+            "subcategories" : [
+                {
+                    "id" : 1,
+                    "name" : "Buty"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Legginsy"
+                },
+                {
+                    "id" : 3,
+                    "name" : "Spodnie"
+                }
+            ]
+        },
+        {
+            "id" : 3,
+            "name" : "Akcesoria fitness",
+            "subcategories" : [
+                    {
+                        "id" : 1,
+                        "name" : "Gumy, taśmy, ekspandery"
+                    },
+                    {
+                        "id" : 2,
+                        "name" : "Maty i materace"
+                    },
+                    {
+                        "id" : 3,
+                        "name" : "Piłi fitness"
+                    }
+                ]
+        },
+        {
+            "id" : 4,
+            "name" : "Sprzęt siłowy",
+            "subcategories" : [
+                {
+                    "id" : 1,
+                    "name" : "Ławki treningowe"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Atlasy, bramy, wyciągi"
+                },
+                {
+                    "id" : 3,
+                    "name" : "Drabinki gimnastyczne"
+                }
+            ]
+        },
+        {
+            "id" : 5,
+            "name" : "Joga",
+            "subcategories" : [
+                {
+                    "id" : 1,
+                    "name" : "Odzież do jogi"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Akcesoria do jogi"
+                }
+            ]
+        }
+    ]
+  },
+  {
+    "id" : 4,
+    "imageName" : "category-cycling",
+    "listImageName" : "bicycle",
+    "name" : "kolarstwo",
+    "subcategories" : [
+        {
+            "id" : 1,
+            "name" : "Rowery",
+            "subcategories" : [
+                {
+                    "id" : 1,
+                    "name" : "Rowery górskie mtb hardtail"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Rowery cross/fitness"
+                },
+                {
+                    "id" : 3,
+                    "name" : "Rowery dla dzieci"
+                }
+            ]
+        },
+        {
+            "id" : 2,
+            "name" : "Części rowerowe i akcesoria",
+            "subcategories" : [
+                {
+                    "id" : 1,
+                    "name" : "Kaski, ochraniacze"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Oświetlenie"
+                },
+                {
+                    "id" : 3,
+                    "name" : "Liczniki"
+                }
+            ]
+        },
+        {
+            "id" : 3,
+            "name" : "Buty rowerowe",
+            "subcategories" : [
+                    {
+                        "id" : 1,
+                        "name" : "Buty spd szosa"
+                    },
+                    {
+                        "id" : 2,
+                        "name" : "Buty spd mtb"
+                    },
+                    {
+                        "id" : 3,
+                        "name" : "Buty platformowe"
+                    }
+                ]
+        },
+        {
+            "id" : 4,
+            "name" : "Trenażery",
+            "subcategories" : [
+                {
+                    "id" : 1,
+                    "name" : "Trenażery rowerowe"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Akcesoria do trenażera"
+                }
+            ]
+        },
+        {
+            "id" : 5,
+            "name" : "Odzież rowerowa",
+            "subcategories" : [
+                {
+                    "id" : 1,
+                    "name" : "Koszulki"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Spodenki"
+                },
+                {
+                    "id" : 3,
+                    "name" : "Kurtki i kamizelki"
+                }
+            ]
+        }
+    ]
+  },
+  {
+    "id" : 5,
+    "imageName" : "category-rocket-sports",
+    "listImageName" : "wand.and.rays",
+    "name" : "sporty rakietowe",
+    "subcategories" : [
+        {
+            "id" : 1,
+            "name" : "Tenis ziemny",
+            "subcategories" : [
+                {
+                    "id" : 1,
+                    "name" : "Rakiety do tenisa"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Piłki do tenisa"
+                },
+                {
+                    "id" : 3,
+                    "name" : "Naciągi do tenisa"
+                }
+            ]
+        },
+        {
+            "id" : 2,
+            "name" : "Tenis stołowy",
+            "subcategories" : [
+                {
+                    "id" : 1,
+                    "name" : "Rakietki do tenisa stołowego"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Stoły do tenisa stołowego"
+                },
+                {
+                    "id" : 3,
+                    "name" : "Piłki do tenisa stołowego"
+                }
+            ]
+        },
+        {
+            "id" : 3,
+            "name" : "Badminton",
+            "subcategories" : [
+                    {
+                        "id" : 1,
+                        "name" : "Rakiety do badmintona"
+                    },
+                    {
+                        "id" : 2,
+                        "name" : "Lotki do badmintona"
+                    },
+                    {
+                        "id" : 3,
+                        "name" : "Naciągi do badmintona"
+                    }
+                ]
+        },
+        {
+            "id" : 4,
+            "name" : "Speedminton",
+            "subcategories" : [
+                {
+                    "id" : 1,
+                    "name" : "Rakiety do speedmintona"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Zestawy do speedmintona"
+                },
+                {
+                    "id" : 3,
+                    "name" : "Lotki do speedmintona"
+                }
+            ]
+        },
+        {
+            "id" : 5,
+            "name" : "Squash",
+            "subcategories" : [
+                {
+                    "id" : 1,
+                    "name" : "Rakiety do squasha"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Piłki do squasha"
+                },
+                {
+                    "id" : 3,
+                    "name" : "Naciągi do squasha"
+                }
+            ]
+        }
+    ]
+  },
+  {
+    "id" : 6,
+    "imageName" : "category-skating",
+    "listImageName" : "hare",
+    "name" : "skating",
+    "subcategories" : [
+        {
+            "id" : 1,
+            "name" : "Łyżworolki i akcesoria",
+            "subcategories" : [
+                {
+                    "id" : 1,
+                    "name" : "Łyżworolki"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Ochraniacze"
+                },
+                {
+                    "id" : 3,
+                    "name" : "Kaski"
+                }
+            ]
+        },
+        {
+            "id" : 2,
+            "name" : "Deskorolki",
+            "subcategories" : [
+                {
+                    "id" : 1,
+                    "name" : "Klasyczne"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Longboard"
+                },
+                {
+                    "id" : 3,
+                    "name" : "Elektryczne"
+                }
+            ]
+        },
+        {
+            "id" : 3,
+            "name" : "Wrotki",
+            "subcategories" : [
+                    {
+                        "id" : 1,
+                        "name" : "Wrotki rekreacyjne i sportowe"
+                    },
+                    {
+                        "id" : 2,
+                        "name" : "Akcesoria"
+                    }
+                ]
+        },
+        {
+            "id" : 4,
+            "name" : "Hulajnogi",
+            "subcategories" : [
+                {
+                    "id" : 1,
+                    "name" : "Elektryczne"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Klasyczne"
+                },
+                {
+                    "id" : 3,
+                    "name" : "Freestyle, wyczynowe"
+                }
+            ]
+        }
+    ]
+  },
+  {
+    "id" : 7,
+    "imageName" : "category-martial",
+    "listImageName" : "hands.clap",
+    "name" : "sporty walki",
+    "subcategories" : [
+        {
+            "id" : 1,
+            "name" : "Boks",
+            "subcategories" : [
+                {
+                    "id" : 1,
+                    "name" : "Rękawice"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Worki/Gruszki"
+                },
+                {
+                    "id" : 3,
+                    "name" : "Kaski/Ochraniacze"
+                }
+            ]
+        },
+        {
+            "id" : 2,
+            "name" : "Karate",
+            "subcategories" : [
+                {
+                    "id" : 1,
+                    "name" : "Karategi"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Pasy"
+                },
+                {
+                    "id" : 3,
+                    "name" : "Akcesoria karate"
+                }
+            ]
+        },
+        {
+            "id" : 3,
+            "name" : "Judo",
+            "subcategories" : [
+                {
+                    "id" : 1,
+                    "name" : "Judogi"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Pasy"
+                },
+                {
+                    "id" : 3,
+                    "name" : "Akcesoria judo"
+                }
+            ]
+        },
+        {
+            "id" : 4,
+            "name" : "MMA",
+            "subcategories" : [
+                {
+                    "id" : 1,
+                    "name" : "Rękawice"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Kaski, ochraniacze"
+                },
+                {
+                    "id" : 3,
+                    "name" : "Spodenki i legginsy"
+                }
+            ]
+        },
+        {
+            "id" : 5,
+            "name" : "Taekwondo",
+            "subcategories" : [
+                {
+                    "id" : 1,
+                    "name" : "Doboki"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Pasy"
+                },
+                {
+                    "id" : 3,
+                    "name" : "Ochraniacze"
+                }
+            ]
+        }
+    ]
+  },
+  {
+    "id" : 8,
+    "imageName" : "category-recreation",
+    "listImageName" : "tortoise",
+    "name" : "sporty rekreacyjne",
+    "subcategories" : [
+        {
+            "id" : 1,
+            "name" : "Bilard",
+            "subcategories" : [
+                {
+                    "id" : 1,
+                    "name" : "Stoły bilardowe"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Kije bilardowe"
+                },
+                {
+                    "id" : 3,
+                    "name" : "Bilard akcesoria"
+                }
+            ]
+        },
+        {
+            "id" : 2,
+            "name" : "Dart",
+            "subcategories" : [
+                {
+                    "id" : 1,
+                    "name" : "Tarcze elektroniczne"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Tarcze sizalowe, papierowe"
+                },
+                {
+                    "id" : 3,
+                    "name" : "Rzutki"
+                }
+            ]
+        },
+        {
+            "id" : 3,
+            "name" : "Gry i zabawy",
+            "subcategories" : [
+                    {
+                        "id" : 1,
+                        "name" : "Piłkarzyki"
+                    },
+                    {
+                        "id" : 2,
+                        "name" : "Frisbee, latawce"
+                    },
+                    {
+                        "id" : 3,
+                        "name" : "Boule"
+                    }
+                ]
+        }
+    ]
+  }
+]

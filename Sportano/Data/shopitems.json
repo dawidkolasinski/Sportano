@@ -1,0 +1,36 @@
+[
+  {
+    "id" : 1,
+    "name" : "Narty zjazdowe HEAD Supershape E-Magnum SW SF-PR czarne +PRD 12 313300/100834",
+    "imageName" : "narty1",
+    "price" : "3 399 zł",
+    "discountedPrice" : "2 599 zł",
+    "discountPercentage" : "-23%",
+    "isFavorite" : true
+  },
+  {
+    "id" : 2,
+    "name" : "Narty zjazdowe HEAD V-Shape V8 SW Lyt-PR czarne +PRD 12 315220/100833",
+    "imageName" : "narty2",
+    "price" : "3 399 zł",
+    "discountedPrice" : "2 599 zł",
+    "discountPercentage" : "-23%",
+    "isFavorite" : false
+  },
+  {
+    "id" : 3,
+    "name" : "Narty zjazdowe Nordica DOBERMANN SLC FDT czarne +TPX12 F 0A9034NA001",
+    "imageName" : "narty3",
+    "price" : "3 399 zł",
+    "isFavorite" : false
+  },
+  {
+    "id" : 4,
+    "name" : "Narty zjazdowe damskie Rossignol NOVA 4 CA czarne +XP W 10 GW RRJ04LI",
+    "imageName" : "narty4",
+    "price" : "3 399 zł",
+    "discountedPrice" : "2 599 zł",
+    "discountPercentage" : "-22%",
+    "isFavorite" : false
+  },
+]

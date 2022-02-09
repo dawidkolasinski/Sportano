@@ -1,0 +1,30 @@
+[
+  {
+    "id" : 1,
+    "header" : "Moje dane",
+    "text" : "Dawid Kolasiński",
+    "optionalText" : "dawid.m.kolasinski@gmail.com",
+    "buttonText" : "Zatrudnij"
+  },
+  {
+    "id" : 2,
+    "header" : "Newsletter",
+    "text" : "Nie jesteś zaproszony do newslettera",
+    "optionalText" : "",
+    "buttonText" : "Zapisz się"
+  },
+  {
+    "id" : 3,
+    "header" : "Domyślny adres do faktury",
+    "text" : "Nie dodałeś jeszcze żadnego adresu do faktury.",
+    "optionalText" : "",
+    "buttonText" : "Dodaj adres"
+  },
+  {
+    "id" : 4,
+    "header" : "Domyślny adres dostawy",
+    "text" : "Nie dodałeś jeszcze żadnego adresu dostawy.",
+    "optionalText" : "",
+    "buttonText" : "Dodaj adres"
+  }
+]

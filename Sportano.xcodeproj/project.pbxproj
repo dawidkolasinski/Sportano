@@ -7,18 +7,82 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		732D9F3927B021AE00C18F01 /* ShopView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 732D9F3827B021AE00C18F01 /* ShopView.swift */; };
+		732D9F3B27B025F300C18F01 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 732D9F3A27B025F300C18F01 /* HeaderView.swift */; };
+		7342D5BD27B255D8006379FB /* NavigationControllerExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7342D5BC27B255D8006379FB /* NavigationControllerExtension.swift */; };
+		7342D5BF27B25EDC006379FB /* SignInView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7342D5BE27B25EDC006379FB /* SignInView.swift */; };
+		738E4FAD27B28DF00013CB4D /* MyAccountCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 738E4FAC27B28DF00013CB4D /* MyAccountCardView.swift */; };
+		73ACFD3827B001AD0094A19E /* CartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73ACFD3727B001AD0094A19E /* CartView.swift */; };
+		73ACFD3A27B001B70094A19E /* FavoritesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73ACFD3927B001B70094A19E /* FavoritesView.swift */; };
+		73ACFD3C27B001C30094A19E /* AccountView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73ACFD3B27B001C30094A19E /* AccountView.swift */; };
 		73BF4C8527AFBBBF006F19AA /* SportanoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73BF4C8427AFBBBF006F19AA /* SportanoApp.swift */; };
 		73BF4C8727AFBBBF006F19AA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73BF4C8627AFBBBF006F19AA /* ContentView.swift */; };
 		73BF4C8927AFBBBF006F19AA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 73BF4C8827AFBBBF006F19AA /* Assets.xcassets */; };
 		73BF4C8C27AFBBBF006F19AA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 73BF4C8B27AFBBBF006F19AA /* Preview Assets.xcassets */; };
+		73BF4C9327AFC2A0006F19AA /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73BF4C9227AFC2A0006F19AA /* MainView.swift */; };
+		73BF4C9627AFC2C8006F19AA /* CategoryListItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73BF4C9527AFC2C8006F19AA /* CategoryListItemView.swift */; };
+		73BF4C9B27AFC31D006F19AA /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73BF4C9A27AFC31D006F19AA /* Category.swift */; };
+		73BF4C9E27AFC65B006F19AA /* categories.json in Resources */ = {isa = PBXBuildFile; fileRef = 73BF4C9D27AFC65B006F19AA /* categories.json */; };
+		73BF4CA127AFD98B006F19AA /* CodableBundleExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73BF4CA027AFD98B006F19AA /* CodableBundleExtension.swift */; };
+		73BF4CA327AFF613006F19AA /* CategoryTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73BF4CA227AFF613006F19AA /* CategoryTabView.swift */; };
+		73CD43B127B2A4C10048B20E /* MyAccountCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73CD43B027B2A4C10048B20E /* MyAccountCard.swift */; };
+		73CD43B327B2A4D30048B20E /* myaccountcards.json in Resources */ = {isa = PBXBuildFile; fileRef = 73CD43B227B2A4D30048B20E /* myaccountcards.json */; };
+		73CD43B527B2AA030048B20E /* NewsletterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73CD43B427B2AA030048B20E /* NewsletterView.swift */; };
+		73CD43B727B2AFB60048B20E /* newsletter.json in Resources */ = {isa = PBXBuildFile; fileRef = 73CD43B627B2AFB60048B20E /* newsletter.json */; };
+		73CD43B927B2AFEE0048B20E /* Newsletter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73CD43B827B2AFEE0048B20E /* Newsletter.swift */; };
+		73CD43BB27B2B82E0048B20E /* sportanodescription.json in Resources */ = {isa = PBXBuildFile; fileRef = 73CD43BA27B2B82E0048B20E /* sportanodescription.json */; };
+		73CD43BD27B2B8550048B20E /* SportanoDescription.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73CD43BC27B2B8550048B20E /* SportanoDescription.swift */; };
+		73CD43BF27B2BA1D0048B20E /* SportanoDescriptionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73CD43BE27B2BA1D0048B20E /* SportanoDescriptionView.swift */; };
+		73CD43C127B2EC8C0048B20E /* BenefitsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73CD43C027B2EC8C0048B20E /* BenefitsView.swift */; };
+		73CD43C327B2EEC90048B20E /* benefits.json in Resources */ = {isa = PBXBuildFile; fileRef = 73CD43C227B2EEC90048B20E /* benefits.json */; };
+		73CD43C527B2EEED0048B20E /* Benefit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73CD43C427B2EEED0048B20E /* Benefit.swift */; };
+		73CD43C727B2F3800048B20E /* Brand.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73CD43C627B2F3800048B20E /* Brand.swift */; };
+		73CD43C927B2F3A10048B20E /* BrandsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73CD43C827B2F3A10048B20E /* BrandsView.swift */; };
+		73CD43CB27B2F40B0048B20E /* brands.json in Resources */ = {isa = PBXBuildFile; fileRef = 73CD43CA27B2F40B0048B20E /* brands.json */; };
+		73CD43D327B3CE9D0048B20E /* ShopItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73CD43D227B3CE9D0048B20E /* ShopItem.swift */; };
+		73CD43D527B3D1630048B20E /* shopitems.json in Resources */ = {isa = PBXBuildFile; fileRef = 73CD43D427B3D1630048B20E /* shopitems.json */; };
+		73CD43D727B3DE540048B20E /* ShopCategoriesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73CD43D627B3DE540048B20E /* ShopCategoriesView.swift */; };
+		73CD43DB27B3F9300048B20E /* ShopItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73CD43DA27B3F9300048B20E /* ShopItemView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		732D9F3827B021AE00C18F01 /* ShopView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopView.swift; sourceTree = "<group>"; };
+		732D9F3A27B025F300C18F01 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
+		7342D5BC27B255D8006379FB /* NavigationControllerExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationControllerExtension.swift; sourceTree = "<group>"; };
+		7342D5BE27B25EDC006379FB /* SignInView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInView.swift; sourceTree = "<group>"; };
+		738E4FAC27B28DF00013CB4D /* MyAccountCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyAccountCardView.swift; sourceTree = "<group>"; };
+		73ACFD3727B001AD0094A19E /* CartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CartView.swift; sourceTree = "<group>"; };
+		73ACFD3927B001B70094A19E /* FavoritesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesView.swift; sourceTree = "<group>"; };
+		73ACFD3B27B001C30094A19E /* AccountView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountView.swift; sourceTree = "<group>"; };
 		73BF4C8127AFBBBF006F19AA /* Sportano.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Sportano.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		73BF4C8427AFBBBF006F19AA /* SportanoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SportanoApp.swift; sourceTree = "<group>"; };
 		73BF4C8627AFBBBF006F19AA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		73BF4C8827AFBBBF006F19AA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		73BF4C8B27AFBBBF006F19AA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		73BF4C9227AFC2A0006F19AA /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		73BF4C9527AFC2C8006F19AA /* CategoryListItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryListItemView.swift; sourceTree = "<group>"; };
+		73BF4C9A27AFC31D006F19AA /* Category.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Category.swift; sourceTree = "<group>"; };
+		73BF4C9D27AFC65B006F19AA /* categories.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = categories.json; sourceTree = "<group>"; };
+		73BF4CA027AFD98B006F19AA /* CodableBundleExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodableBundleExtension.swift; sourceTree = "<group>"; };
+		73BF4CA227AFF613006F19AA /* CategoryTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryTabView.swift; sourceTree = "<group>"; };
+		73CD43B027B2A4C10048B20E /* MyAccountCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyAccountCard.swift; sourceTree = "<group>"; };
+		73CD43B227B2A4D30048B20E /* myaccountcards.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = myaccountcards.json; sourceTree = "<group>"; };
+		73CD43B427B2AA030048B20E /* NewsletterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsletterView.swift; sourceTree = "<group>"; };
+		73CD43B627B2AFB60048B20E /* newsletter.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = newsletter.json; sourceTree = "<group>"; };
+		73CD43B827B2AFEE0048B20E /* Newsletter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Newsletter.swift; sourceTree = "<group>"; };
+		73CD43BA27B2B82E0048B20E /* sportanodescription.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = sportanodescription.json; sourceTree = "<group>"; };
+		73CD43BC27B2B8550048B20E /* SportanoDescription.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SportanoDescription.swift; sourceTree = "<group>"; };
+		73CD43BE27B2BA1D0048B20E /* SportanoDescriptionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SportanoDescriptionView.swift; sourceTree = "<group>"; };
+		73CD43C027B2EC8C0048B20E /* BenefitsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BenefitsView.swift; sourceTree = "<group>"; };
+		73CD43C227B2EEC90048B20E /* benefits.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = benefits.json; sourceTree = "<group>"; };
+		73CD43C427B2EEED0048B20E /* Benefit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Benefit.swift; sourceTree = "<group>"; };
+		73CD43C627B2F3800048B20E /* Brand.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Brand.swift; sourceTree = "<group>"; };
+		73CD43C827B2F3A10048B20E /* BrandsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrandsView.swift; sourceTree = "<group>"; };
+		73CD43CA27B2F40B0048B20E /* brands.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = brands.json; sourceTree = "<group>"; };
+		73CD43D227B3CE9D0048B20E /* ShopItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopItem.swift; sourceTree = "<group>"; };
+		73CD43D427B3D1630048B20E /* shopitems.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = shopitems.json; sourceTree = "<group>"; };
+		73CD43D627B3DE540048B20E /* ShopCategoriesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopCategoriesView.swift; sourceTree = "<group>"; };
+		73CD43DA27B3F9300048B20E /* ShopItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopItemView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +115,12 @@
 		73BF4C8327AFBBBF006F19AA /* Sportano */ = {
 			isa = PBXGroup;
 			children = (
+				73BF4C9F27AFD96F006F19AA /* Extensions */,
+				73BF4C9C27AFC652006F19AA /* Data */,
+				73BF4C9727AFC2E5006F19AA /* Model */,
+				73BF4C9427AFC2B3006F19AA /* View */,
 				73BF4C8427AFBBBF006F19AA /* SportanoApp.swift */,
-				73BF4C8627AFBBBF006F19AA /* ContentView.swift */,
+				73BF4C9227AFC2A0006F19AA /* MainView.swift */,
 				73BF4C8827AFBBBF006F19AA /* Assets.xcassets */,
 				73BF4C8A27AFBBBF006F19AA /* Preview Content */,
 			);
@@ -65,6 +133,66 @@
 				73BF4C8B27AFBBBF006F19AA /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		73BF4C9427AFC2B3006F19AA /* View */ = {
+			isa = PBXGroup;
+			children = (
+				73BF4C8627AFBBBF006F19AA /* ContentView.swift */,
+				73BF4C9527AFC2C8006F19AA /* CategoryListItemView.swift */,
+				73BF4CA227AFF613006F19AA /* CategoryTabView.swift */,
+				73ACFD3727B001AD0094A19E /* CartView.swift */,
+				73ACFD3927B001B70094A19E /* FavoritesView.swift */,
+				73ACFD3B27B001C30094A19E /* AccountView.swift */,
+				732D9F3827B021AE00C18F01 /* ShopView.swift */,
+				732D9F3A27B025F300C18F01 /* HeaderView.swift */,
+				7342D5BE27B25EDC006379FB /* SignInView.swift */,
+				738E4FAC27B28DF00013CB4D /* MyAccountCardView.swift */,
+				73CD43B427B2AA030048B20E /* NewsletterView.swift */,
+				73CD43BE27B2BA1D0048B20E /* SportanoDescriptionView.swift */,
+				73CD43C027B2EC8C0048B20E /* BenefitsView.swift */,
+				73CD43C827B2F3A10048B20E /* BrandsView.swift */,
+				73CD43D627B3DE540048B20E /* ShopCategoriesView.swift */,
+				73CD43DA27B3F9300048B20E /* ShopItemView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		73BF4C9727AFC2E5006F19AA /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				73BF4C9A27AFC31D006F19AA /* Category.swift */,
+				73CD43B027B2A4C10048B20E /* MyAccountCard.swift */,
+				73CD43B827B2AFEE0048B20E /* Newsletter.swift */,
+				73CD43BC27B2B8550048B20E /* SportanoDescription.swift */,
+				73CD43C427B2EEED0048B20E /* Benefit.swift */,
+				73CD43C627B2F3800048B20E /* Brand.swift */,
+				73CD43D227B3CE9D0048B20E /* ShopItem.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		73BF4C9C27AFC652006F19AA /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				73BF4C9D27AFC65B006F19AA /* categories.json */,
+				73CD43CA27B2F40B0048B20E /* brands.json */,
+				73CD43B227B2A4D30048B20E /* myaccountcards.json */,
+				73CD43C227B2EEC90048B20E /* benefits.json */,
+				73CD43D427B3D1630048B20E /* shopitems.json */,
+				73CD43BA27B2B82E0048B20E /* sportanodescription.json */,
+				73CD43B627B2AFB60048B20E /* newsletter.json */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		73BF4C9F27AFD96F006F19AA /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				73BF4CA027AFD98B006F19AA /* CodableBundleExtension.swift */,
+				7342D5BC27B255D8006379FB /* NavigationControllerExtension.swift */,
+			);
+			path = Extensions;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +253,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				73CD43D527B3D1630048B20E /* shopitems.json in Resources */,
+				73CD43BB27B2B82E0048B20E /* sportanodescription.json in Resources */,
 				73BF4C8C27AFBBBF006F19AA /* Preview Assets.xcassets in Resources */,
+				73CD43B727B2AFB60048B20E /* newsletter.json in Resources */,
+				73CD43C327B2EEC90048B20E /* benefits.json in Resources */,
+				73BF4C9E27AFC65B006F19AA /* categories.json in Resources */,
+				73CD43CB27B2F40B0048B20E /* brands.json in Resources */,
 				73BF4C8927AFBBBF006F19AA /* Assets.xcassets in Resources */,
+				73CD43B327B2A4D30048B20E /* myaccountcards.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +272,33 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				73ACFD3A27B001B70094A19E /* FavoritesView.swift in Sources */,
+				73CD43D327B3CE9D0048B20E /* ShopItem.swift in Sources */,
+				73BF4CA327AFF613006F19AA /* CategoryTabView.swift in Sources */,
+				73CD43C127B2EC8C0048B20E /* BenefitsView.swift in Sources */,
+				73CD43B927B2AFEE0048B20E /* Newsletter.swift in Sources */,
+				73ACFD3827B001AD0094A19E /* CartView.swift in Sources */,
+				73CD43DB27B3F9300048B20E /* ShopItemView.swift in Sources */,
+				7342D5BD27B255D8006379FB /* NavigationControllerExtension.swift in Sources */,
 				73BF4C8727AFBBBF006F19AA /* ContentView.swift in Sources */,
+				73ACFD3C27B001C30094A19E /* AccountView.swift in Sources */,
+				73BF4C9B27AFC31D006F19AA /* Category.swift in Sources */,
+				73CD43C527B2EEED0048B20E /* Benefit.swift in Sources */,
+				73CD43C927B2F3A10048B20E /* BrandsView.swift in Sources */,
+				73CD43B127B2A4C10048B20E /* MyAccountCard.swift in Sources */,
+				73BF4CA127AFD98B006F19AA /* CodableBundleExtension.swift in Sources */,
+				73CD43C727B2F3800048B20E /* Brand.swift in Sources */,
+				7342D5BF27B25EDC006379FB /* SignInView.swift in Sources */,
+				73CD43D727B3DE540048B20E /* ShopCategoriesView.swift in Sources */,
+				73BF4C9627AFC2C8006F19AA /* CategoryListItemView.swift in Sources */,
+				732D9F3927B021AE00C18F01 /* ShopView.swift in Sources */,
+				73CD43BF27B2BA1D0048B20E /* SportanoDescriptionView.swift in Sources */,
+				73CD43B527B2AA030048B20E /* NewsletterView.swift in Sources */,
+				73BF4C9327AFC2A0006F19AA /* MainView.swift in Sources */,
+				738E4FAD27B28DF00013CB4D /* MyAccountCardView.swift in Sources */,
 				73BF4C8527AFBBBF006F19AA /* SportanoApp.swift in Sources */,
+				73CD43BD27B2B8550048B20E /* SportanoDescription.swift in Sources */,
+				732D9F3B27B025F300C18F01 /* HeaderView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

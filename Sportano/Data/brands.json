@@ -1,0 +1,98 @@
+[
+{
+    "id" : 1,
+    "name" : "atomic"
+},
+{
+    "id" : 2,
+    "name" : "dolomite"
+},
+{
+    "id" : 3,
+    "name" : "fischer"
+},
+{
+    "id" : 4,
+    "name" : "garmin"
+},
+{
+    "id" : 5,
+    "name" : "gipara"
+},
+{
+    "id" : 6,
+    "name" : "head"
+},
+{
+    "id" : 7,
+    "name" : "insta360"
+},
+{
+    "id" : 8,
+    "name" : "k2"
+},
+{
+    "id" : 9,
+    "name" : "kettler"
+},
+{
+    "id" : 10,
+    "name" : "nordica"
+},
+{
+    "id" : 11,
+    "name" : "oakley"
+},
+{
+    "id" : 12,
+    "name" : "orbea"
+},
+{
+    "id" : 13,
+    "name" : "peakperformance"
+},
+{
+    "id" : 14,
+    "name" : "poc"
+},
+{
+    "id" : 15,
+    "name" : "quicksilver"
+},
+{
+    "id" : 16,
+    "name" : "rollerblade"
+},
+{
+    "id" : 17,
+    "name" : "rossignol"
+},
+{
+    "id" : 18,
+    "name" : "roxy"
+},
+{
+    "id" : 19,
+    "name" : "salomon"
+},
+{
+    "id" : 20,
+    "name" : "technogym"
+},
+{
+    "id" : 21,
+    "name" : "uvex"
+},
+{
+    "id" : 22,
+    "name" : "volkl"
+},
+{
+    "id" : 23,
+    "name" : "wahoo"
+},
+{
+    "id" : 24,
+    "name" : "wilson"
+}
+]

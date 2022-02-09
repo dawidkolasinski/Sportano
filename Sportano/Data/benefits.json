@@ -1,0 +1,22 @@
+[
+{
+    "id" : 1,
+    "imageName" : "clock",
+    "description" : "Wysyłka w 24 godziny"
+},
+{
+    "id" : 2,
+    "imageName" : "bus",
+    "description" : "Darmowa dostawa od 100 zł"
+},
+{
+    "id" : 3,
+    "imageName" : "shippingbox",
+    "description" : "30 dni na darmowy zwrot"
+},
+{
+    "id" : 4,
+    "imageName" : "tag",
+    "description" : "Rabaty dla subskrybentów"
+}
+]
